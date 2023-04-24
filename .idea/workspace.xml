@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9b70cc4-439e-4412-9424-25564fc99ff6" name="Changes" comment="INITIAL COMMIT">
+      <changelist_data name="Ayush-Singh-068" email="" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/data/datasources/datasources.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/data/datasources/datasources.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/data/datasources/{{featureName.snakeCase()}}_local_data_source.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/data/datasources/{{featureName.snakeCase()}}_local_data_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/data/datasources/{{featureName.snakeCase()}}_remote_data_source.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/data/datasources/{{featureName.snakeCase()}}_remote_data_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/data/models/models.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/data/models/models.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/data/models/{{featureName.snakeCase()}}_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/data/models/{{featureName.snakeCase()}}_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/data/repositories/repositories.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/data/repositories/repositories.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/data/repositories/{{featureName.snakeCase()}}_repository_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/data/repositories/{{featureName.snakeCase()}}_repository_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/di/injection_container.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/di/injection_container.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/domain/entities/entities.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/domain/entities/entities.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/domain/entities/{{featureName.snakeCase()}}.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/domain/entities/{{featureName.snakeCase()}}.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/domain/repositories/repositories.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/domain/repositories/repositories.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/domain/repositories/{{featureName.snakeCase()}}_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/domain/repositories/{{featureName.snakeCase()}}_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/domain/usecases/get_concrete_{{featureName.snakeCase()}}.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/domain/usecases/get_concrete_{{featureName.snakeCase()}}.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/domain/usecases/get_random_{{featureName.snakeCase()}}.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/domain/usecases/get_random_{{featureName.snakeCase()}}.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/domain/usecases/usecases.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/domain/usecases/usecases.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/bloc/bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/bloc/bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/bloc/{{featureName.snakeCase()}}_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/bloc/{{featureName.snakeCase()}}_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/bloc/{{featureName.snakeCase()}}_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/bloc/{{featureName.snakeCase()}}_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/bloc/{{featureName.snakeCase()}}_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/bloc/{{featureName.snakeCase()}}_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/pages/{{featureName.snakeCase()}}_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/pages/{{featureName.snakeCase()}}_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/widgets/loading_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/widgets/loading_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/widgets/message_display.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/widgets/message_display.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/widgets/trivia_controls.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/widgets/trivia_controls.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/widgets/trivia_display.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/widgets/trivia_display.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__brick__/{{featureName.snakeCase()}}/presentation/widgets/widgets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/clean_feature/__brick__/{{featureName.snakeCase()}}/presentation/widgets/widgets.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ayush-Singh-068" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e0fc4cb3-40c4-4c84-bdc0-747a7e48da2d" />
+  </component>
+  <component name="ProjectId" id="2OrMWoddiv4OGbEVBV9xpq2HJR3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clean_feature" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b70cc4-439e-4412-9424-25564fc99ff6" name="Changes" comment="" />
+      <created>1682314282552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682314282552</updated>
+    </task>
+    <task id="LOCAL-00001" summary="INITIAL COMMIT">
+      <created>1682315500448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682315500448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="INITIAL COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="INITIAL COMMIT" />
+  </component>
+</project>
