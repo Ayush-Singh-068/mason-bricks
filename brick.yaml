@@ -1,0 +1,14 @@
+name: clean_feature
+description: A new brick created with the Mason CLI.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  featureName:
+    type: string
+    description: Clean Feature name
+    default: New Feature
+    prompt: What's the feature name?

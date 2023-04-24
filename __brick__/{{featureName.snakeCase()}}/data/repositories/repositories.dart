@@ -1,0 +1,1 @@
+export '../repositories/{{featureName.snakeCase()}}_repository_impl.dart';

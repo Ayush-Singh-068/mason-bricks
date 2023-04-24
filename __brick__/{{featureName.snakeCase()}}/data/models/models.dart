@@ -1,0 +1,1 @@
+export '../models/{{featureName.snakeCase()}}_model.dart';
