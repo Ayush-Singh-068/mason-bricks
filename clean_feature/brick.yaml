@@ -1,5 +1,5 @@
 name: clean_feature
-description: A new brick created with the Mason CLI.
+description: This is a brick that created a feature, at specified place, that follows clean architecture
 
 version: 0.1.0+1
 
